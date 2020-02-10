@@ -1,1 +1,7 @@
-2
+#
+bak/ 
+*.class 
+.DS_Store
+*.mod*
+test/1.doc  
+*.py[cod] 
