@@ -6,5 +6,3 @@
 test/1.doc  
 *.py[cod] 
 ?.txt
-/*
-!/tmp/
